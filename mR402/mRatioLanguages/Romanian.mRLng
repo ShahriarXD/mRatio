@@ -1,0 +1,179 @@
+d3:35773:Unele torrente salvate nu pot fi încărcate.
+Doriţi să le ştergeţi?3:356134:Nu se pot obţine informaţiile necesare din memoria uTorrent.
+Opriţi şi/sau porniţi torentele din uTorrent şi căutaţi din nou.3:3555:Port:3:3546:Cheie:3:3537:Peerid:3:35215:Detalii Emulate3:3517:Emulare3:3508:Tracker:3:3495:Hash:3:3485:Nume:3:34711:Avansat ...3:34689:- Intră în vigoare la următoarea pornire.
+- Lăsaţi-l gol dacă nu-l vreţi activat.3:34540:IP/Nume gazdă de trimis către tracker:3:34410:BitTorrent3:34355:Niciun torrent nu a fost găsit folosind versiunea {0}.3:34252:Datele au fost aplicate cu succes la {0} torrent(e).3:34158:Aplicarea masivă a cititorului necesită un peerid valid.3:340145:Acesta va înlocui datele emulării fiecărui torrent oprit având versiunea uTorrent-ului obţinută prin cititorul de memorie.
+Sunteţi sigur?3:33924:Cititorul de Memorie ...3:33820:Aplicată cu succes.3:33794:Emularea selectată nu corespunde cu versiunea uTorrent rulată.
+Aceasta vă face detectabil!3:336211:Cititorul de Memorie nu este configurat corect.
+Valorile care nu indeplinesc specificaţiile vor fi schimbate cu datele generate de mR.
+Aceasta NU ESTE recomandată, vă va face vulnerabil, continuaţi oricum?3:33513:Configurează3:33489:- Permite folosirea mR si uTorrent in acelaşi timp pe acelaşi tracker, în siguranţă.3:33321:Activează cititorul:3:33220:Cititorul de Memorie3:33125:Căutare finalizată.
+
+3:32953:Imposibil de realizat o citire a memoriei uTorrent.
+3:3283:Nul3:32726:Caută date de emulare ...3:326125:Metoda Waffles este o metodă periculoasă şi nu ar trebui utilizată dacă nu ştiţi să o folosiţi!
+Continuaţi oricum?3:32538:Metoda Waffles opreşte torrent-ul ...3:32441:Metoda Waffles reporneşte torrent-ul ...3:32354:Metoda Waffles porneşte la cererea utilizatorului ...3:32278:- Afisează un meniu opţional ce permite folosirea unei metode de înşelare.3:32147:Afişează elementul de meniu "Metoda Waffles".3:32014:Metoda Waffles3:31917:Scrape finalizat.3:3186:Anunţ3:3177:Încarc3:3167:Descarc3:3155:Oprit3:31418:În curs de oprire3:31319:În curs de pornire3:31259:Porneşte torentele automat după adăugarea lor in listă.3:31116:Actualizare în:3:31024:Informaţii suplimentare3:30941:Actualizare la cererea utilizatorului ...3:30852:Trimiterea scrape-ului la cererea utilizatorului ...3:30756:Torrent în curs de oprire la cererea utilizatorului ...3:30657:Torrent în curs de pornire la cererea utilizatorului ...3:30557:Pauză neprevăzută în timpul aşteptării datelor.
+
+3:30417:Scrape imposibil.3:30311:Încarc ...3:30211:Descarc ...3:30114:Torrent oprit.3:30033:Reîncercare ... în {0} secunde.3:29948:Conectat cu succes la tracker, trimit datele ...3:29859:Reîncercarea conexiunii cu tracker-ul ... în {0} secunde.3:29737:Crearea anunţului de actualizare ...3:29634:Crearea anunţului de finisare ...3:29532:Crearea anunţului de oprire ...3:29433:Crearea anunţului de pornire ...3:29333:Torrent încărcat în listă ...3:29256:mRatio a întâmpinat o problemă şi nu poate continua.3:29158:Nicio emulare validă găsită!
+Programul se va închide!3:29047:Următorii clienţi nu au putut fi incărcaţi:3:28965:Sunteţi sigur că doriţi să ştergeţi toate înregistrările?3:28824:Nicio emulare selectată3:28719:{0} Torrent(e) gata3:28616:Deja în listă.3:28551:Scrieţi criteriul dorit pentru a filtra lista.
+
+3:28431:mRatio rulează acum pe fundal.3:28311:Informaţii3:28223:Niciun torrent selectat3:28124:{0} Torrent(e) selectate3:2806:Eroare3:2798:Atenţie3:27794:Dosarul 'mRatioClients' trebuie să conţină cel puţin o emulare!
+Programul se va închide!3:27633:- Arată informaţii ajutătoare.3:27559:- Afişează o notificare că programul rulează pe fundal.3:27462:- Minimalizează fereastra principală în zona de notificare.3:27374:- Pictograma de notificare va fi mereu vizibilă când programul rulează.3:272123:- Unele date pot fi salvate cu encodare base64.
+- Puteţi folosi un decodor online pentru a vedea datele encodate in text.3:27148:Citeşte datele înregistrate dintr-un document.3:27033:Şterge datele existente salvate.3:269159:- Salvează orice informaţie necesară pentru analiza de erori.
+- Se pot salva date cum ar fi: adresa tracker-ului, cheia de securitate şi proxy-ul folosit.3:26860:- Salvează datele importante când apare o eroare critică.3:26794:Micşorează consumul de memorie dar creşte infim utilizarea procesorului şi a discului dur.3:26640:- Frecvenţa de actualizare în secunde.3:265137:- Permite alegerea ratei de actualizare a interfeţei.
+- Cu cât numărul este mai mare, cu atât consumul resurselor va fi mai scăzut.3:26427:O valoare între 0 şi 100.3:26343:- Tracker-ul vă va vedea ca încărcător.3:26243:- Tracker-ul vă va vedea ca descărcător.3:261118:- Valori în octeţi pe secundă.
+- Verificaţi valorea albastră din dreapta pentru introducerea corectă a valorii.3:260119:- Valoare în octeţi pe secundă.
+- Verificaţi valorea albastră din dreapta pentru introducerea corectă a valorii.3:259102:- Oferă un comportament realistic al vitezelor. Este recomandat ca acestă opţiune sa fie activată.3:25871:- Schimbările intră în vigoare la următoarea pornire a programului.3:25771:- Schimbările intră în vigoare la următoarea pornire a programului.3:25671:- Schimbările intră în vigoare la următoarea pornire a programului.3:25582:- Afişează un panou cu opţiuni de bază.
+- Recomandat pentru utilizatorii noi.3:254111:- Afişează un element în meniu care permite actualizarea informaţiilor descărcătorilor/încărcătorilor.3:25392:- Afişează un element suplimentar care permite actualizarea torrent-ului în orice moment.3:25285:- Afişează o filă suplimentară care arată activitatea detaliată a unui torrent.3:25192:- Afişează opţiunile de copiere avansată în meniul click-dreapta din lista de torrente.3:25080:- Afişează pictogramele tracker-elor pentru asocierea uşoară a torrent-elor.3:24948:- Afişează un panou cu detaliile torrent-ului.3:24842:- Afişează funcţii de accesare rapidă.3:24779:- Afişează informaţii suplimentare în partea de jos a ferestrei principale.3:24671:- Introduceţi "000" dacă doriţi să păstraţi valoarea neschimbata.3:24552:Daţi click dacă doriţi să ascundeti acest panou.3:24413:Portul proxy.3:24322:IP/Nume gazdă proxy .3:24214:Parolă proxy.3:24117:Utilizator proxy.3:24046:Permite accesul proxy prin utilizator/parolă.3:23924:Valori între 0 şi 100.3:23842:- Trackerul vă va vedea ca încărcător.3:23742:- Trackerul vă va vedea ca descărcător.3:236119:- Valoare în octeţi pe secundă.
+- Verificaţi valorea albastră din dreapta pentru introducerea corectă a valorii.3:235119:- Valoare în octeţi pe secundă.
+- Verificaţi valorea albastră din dreapta pentru introducerea corectă a valorii.3:234101:- Oferă un comportament realistic al vitezelor. Este recomandat ca acestă opţiune sa fie activata.3:233156:- Acest câmp este opţional.
+- Scrieţi cuvintele ce vă ajută la indentificarea torrent-ului.
+- Puteţi căuta ulterior torrent-ul prin aceste cuvinte.3:23258:Transferati unul sau mai multe torrente pentru a continua.3:23118:Statistici Globale3:2308:Închide3:22915:Program lansat:3:22815:Timp de rulare:3:22715:Raţie totală:3:22611:Descărcat:3:22511:Încărcat:3:224101:Selectaţi-l pe acesta dacă sunteţi familiarizaţi cu bittorrent-ul şi metodele lui de înşelare.3:22379:Selectaţi-l pe acesta dacă aţi mai înşelat cu succes pe trackere înainte.3:22289:Selectaţi-l pe acesta dacă este prima dată sau încă învăţaţi elemntele de bază.3:2218:Închide3:2206:Expert3:2196:Normal3:21811:Începător3:217147:mRatio poate configura interfaţa în funcţie de experienţa de înşelare. Interfaţa se poate schimba ulterior după preferinţa utilizatorului.3:21624:Bine ai venit în mRatio3:21513:Confirmă
+
+3:2148:Anuleză3:2135:Autor3:2124:Nume3:2118:Închide3:21036:Afişează informaţii suplimentare.3:2096:Ajutor3:20876:Afişează o notificare atunci când este minimalizat in zona de notificare.3:20753:Minimalizează ca pictogramă în zona de notificare.3:20656:Pictograma din zona de notificare va fi mereu vizibilă.3:20525:Pictogramă de notificare3:2047:General3:20311:Reîncarcă3:2029:Curăţă3:20135:Date din fişierul de înregistrare3:20056:Activează înregistrarea datelor cu conţinut sensibil.3:19946:Înregistrează detaliile la erori importante.3:19813:Înregistrare3:1975:Erori3:1968:Procesor3:1957:Memorie3:19433:Micşorează consumul de memorie.3:19342:Rata de actualizare a interfeţei (sec.) :3:19212:Performanţa3:19111:Prestabilit3:19011:Port global3:18933:Verificaţi conectivitatea online3:18830:Foloseşte intotdeauna portul:3:18720:Port aleator între:3:1869:Conexiune3:18526:Arată panoul din stânga.3:1847:Panouri3:18335:Arată elementul de meniu "Scrape".3:18241:Arată elementul de meniu "Actualizeză".3:18120:Arată panoul "Tab".3:18041:Arată elementul de meniu "Copiază ...".3:17932:Arată pictogramele trackerelor.3:17821:Fereastra Principală3:17725:Arată panoul detaliilor.3:17624:Arată panoul de unelte.3:17521:Arată bara de stare.3:1748:Etichete3:17320:Timp Total de Rulare3:17210:Descărcat3:17110:Încărcat3:17016:Raţia (sesiune)3:16931:Viteza Actuală de Descărcare 3:16821:Descărcare (sesiune)3:16730:Viteza Actuală de Încărcare3:16621:Încărcare (sesiune)3:16530:Mărimea Totală a Torrentului3:16429:Viteza Maximă de Descărcare3:16329:Viteza Maximă de Încărcare3:16227:Ştergeţi Toate Torrentele3:16124:Opriţi Toate Torrentele3:16025:Porniţi Toate Torrentele3:15930:Ştergeţi Torrent-ul Selectat3:15827:Opriţi Torrent-ul Selectat3:15728:Porniţi Torrent-ul Selectat3:15629:Viteza Totală de Încărcare3:15529:Viteza Totală de Descărcare3:15414:Interfaţa    3:1537:Aplică3:15245:Viteza de Descărcare a Torrentelor Selectate3:15145:Viteza de Încărcare a Torrentelor Selectate3:15040:Nicio conexiune de intrare primită.
+
+3:14946:Click pentru a verifica online conectivitatea.3:1485450:Ascultă tot, dar nu crede tot.
+Apa trece, pietrele rămân.
+Ai carte, ai parte.
+Așchia nu sare departe de trunchi.
+Baba n-aude, dar le potrivește.
+Banii n-au miros.
+Banu-i ochiul dracului.
+Bate fierul cât e cald.
+Bunul gospodar își face vara sanie și iarna car.
+Buturuga mică răstoarnă carul mare.
+Calul de dar nu se caută la dinți.
+Capul plecat sabia nu-l taie.
+Cască ochii la tocmeală,/ iar nu după ce te-nșeală.
+Când doi se ceartă al treilea câștigă.
+Când pisica nu-i acasă, șoarecii dansează
+Caută o femeie care-ți place ție, nu la alții.
+Câinele care latră nu mușcă.
+Călătorului îi șade bine cu drumul.
+Ce poți face azi, nu lăsa pe mâine.
+Ce ție nu-ți place, altuia nu-i face.
+Cele rele sâ se spele, cele bune să se-adune.
+Cine are carte, are și parte.
+Cine râde la urmă râde mai bine.
+Cine nu are un bătrân, să își cumpere.
+Cine nu-ncearcă, nici nu câștigă.
+Cine sapă groapa altuia, cade singur în ea.
+Cine seamănă vânt, culege furtună.
+Cine se scoală de dimineață departe ajunge.
+Cine se scuză, se acuză.
+Cine stă-n casă de sticlă, n-aruncă cu pietre.
+Cum tu mie, așa eu ție.
+Cum e stăpânul așa-i și sluga.
+Cum e turcu-i și pistolul.
+Când de multe te apuci mai pe toate le încurci.
+Cine are prieten nărod ajunge din pod în glod.
+Corb la corb, nu scoate ochii, Corb, corbului ochi nu scoate.
+Cui pe cui scoate.
+Cine aleargă după doi iepuri, nu prinde nici unul.
+Cu un ochi râde și cu altul plânge.
+Cum îți așterni așa dormi.
+Când râde prostul, înțeleptul suspină.
+Când omul cade îi piere și umbra.
+Cel flămând se visează mâncând.
+Cine face carte are patru ochi.
+Dacă copilul nu plânge, mama nu-i dă țâță.
+Dacă îți spun trei prieteni ca ești beat ar fi bine să mergi acasă.
+De ce îi mai râioasă capra, de aia stă cu coada mai sus.
+Dacă vrei să faci o meserie, îți trebuie scule, dacă vrei să ai familie, îți trebuie oameni.
+Dacă n-ajunge mai ramâne.
+Dar din dar se face raiul.
+De la Ana la Caiafa.
+E bun numai când doarme.
+Fă bine și așteaptă rău.
+Fă-te frate cu dracul până treci puntea.
+Fiecare greșește, dar numai prostul repetă greșeala.
+Familia este nucleul civilizației.
+Gerul nu vine niciodată singur ... .
+Găină în făină.
+Găina vecinului pare curcă.
+Haina nu îl face pe om.
+În boul care trage, în ăla dă cu biciul.
+Încet încet - departe ajungi.
+Încetul cu încetul se face oțetul.
+Învață din nevoia altuia.
+În țara orbilor, chiorul este împărat.
+Jarul potolit te arde!.
+La omul sărac nici boii nu trag.
+La plăcinte înainte, la război înapoi.
+La pomul lăudat să nu te duci cu sacul.
+Lauda de sine nu miroase a bine.
+Leneșul mai mult aleargă, scumpul mai mult păgubește.
+Lacul de ploaie nu ține mult.
+Lăcusta nu are milă de bucate.
+Lupul cu slugi nu face gâtul gros.
+Lupul lup rămâne.
+Maimuța în aur și purpură, tot maimuță rămâne.
+Minciuna are picioare scurte.
+Nevoia te învață.
+Nu aduce ziua ce aduce ora.
+Nu da vrabia din mână pentru cioara de pe gard.
+Nu face altuia ce ție nu-ți place.
+Nu lăsa pe mâine ce poți face azi.
+Nu lăuda ziua înainte de asfințit.
+Nu haina face pe om.
+Nu se sperie curva bătrână de vorba groasă.
+Nu toate drumurile duc la Roma.
+Nu toate muștele fac miere.
+Nu-ți dori că ți se va întâmpla.
+Nu vede pădurea din pricina copacului.
+Nu zice hop până n-ai sărit pârleazul.
+Numa-ncet, cu furca se încarcă carul.
+Ochii care nu se văd se uită.
+Omul sfințește locul, nu locul pe om.
+Omul face haina și nu haina pe om.
+Paza bună trece primejdia rea.
+Pofta vine mâncând.
+Prietenul la nevoie se cunoaște.
+Prostia și domnia se plătește.
+Prostul dacă nu-i fudul, parcă nu e prost destul.
+Prostul moare de grija altuia.
+Peștele de la cap se-mpute.
+Peștele mare mănâncă peștele mic.
+Pică pară mălăiață în gura nătăfleață.
+Printre grâu, mălura crește.
+Prost să fii, noroc să ai.
+Puneți frâu la gură și lacăt la inimă.
+Prostul întâi o croiește apoi o gândește.
+Prostul nu se lasă până când nu spune tot ce știe.
+Punctualitatea-i politețea regilor.
+Prostul nu e prost destul pana nu e si fudul.
+Râde ciob de oală spartă.
+Râde hârb de oală spartă.
+Râde prostu de bani gata.
+Rade prostu de neghiob.
+Rușinosul / Roade osul.
+Să fii domn e o întâmplare, să fii om e-un lucru mare.
+Scump la tărâțe, ieftin la făină.
+Socoteală curată prietenie lungă.
+Spune-mi cu cine te însoțești, ca să-ți spun cine ești.
+Știe mocanul ce-i sofranul? Când îl vede pe tarabă, gândește că e otravă.
+Tânăr lângă tânără, ca paiele lângă foc.
+Țara arde, iar baba se piaptănă.
+Unde nu intră soarele pe fereastră, intră doctorul pe ușă.
+Unde se cioplește, sar și așchii.
+Ulciorul nu merge de multe ori la apă singur.
+Unde-s mulți, puterea crește.
+Urma alege.
+Urma pierde turma.
+Vede paiul din ochiul altuia, nu și parul din ochiul său.
+Vinde pielea ursului din pădure.
+Vorba dulce mult aduce.
+Vorba lungă, sărăcia omului.
+Vrabia mălai visează, iar calicul praznicul.
+Vrei, nu vrei, bea, Grigore, aghiasmă!
+Vrei să faci o meserie, îți trebuie scule. Vrei să faci o familie, îți trebuie oameni.
+Zace pe moarte și-ar mânca de toate.
+Ziua bună se cunoaște de dimineață.3:14728:Caută în lista de torrente3:14629:Viteza Totală de Încărcare3:14529:Viteza Totală de Descărcare3:14449:Salvează toate setările şi închide programul.3:14340:Informaţii suplimentare despre program.3:14261:Afişează informaţii globale despre utilizarea programului.3:14152:Configuraţi opţiunile avansate după preferinţă.3:14074:Selectaţi, setaţi şi adăugaţi unul sau mai multe torrente în listă.3:1395:Mesaj3:1385:Dată3:1379:Curăţă3:1366:Jurnal3:1357:Aplică3:1348:Opţiuni3:13323:Niciun Torrent Selectat3:13210:Detalii   3:1318:Etichete3:13014:Timp de Rulare3:1296:Raţie3:12816:Total Descărcat3:12716:Total Încărcat3:1267:Durată3:12516:Raţie (sesiune)3:12414:V. Descărcare3:12310:Descărcat3:12214:V. Încărcare3:12110:Încărcat3:12015:Actualizare în3:11914:Încărcători3:11814:Descărcători3:1177:Mărime3:1167:Emulare3:1157:Tracker3:1144:Hash3:11316:Lim. Descărcare3:11216:Lim. Încărcare3:1115:Stare3:1107:Progres3:1094:Nume3:1088:Torrente3:1078:Închide3:10614:Opreşte Toate3:10515:Porneşte Toate3:10414:Arată/Ascunde3:1036:Scrape3:10211:Actualizare3:10110:Descărcat3:10010:Încărcat2:997:Tracker2:987:Mărime2:974:Nume2:9612:Copiază ...2:9515:Descărcare ...2:9415:Încărcare ...2:9310:Viteze ...2:927:Şterge2:918:Opreşte2:909:Porneşte2:897:Raţie:2:8817:Raţie (sesiune):2:878:Mărime:2:868:Durată:2:8520:Limită Descărcare:2:8420:Limită Încărcare:2:8317:Total Descărcat:2:8217:Total Încărcat:2:8122:Descărcare (sesiune):2:8023:Încărcare (sesiune): 2:7915:V. Descărcare:2:7815:V. Încărcare:2:7738:Şterge torrentul din lista de import.2:7631:Confirmă şi adaugă torrente.2:7556:Click pentru a adăuga toate torrent-ele dintr-un dosar.2:7459:Click pentru a adăuga mai multe torrente in acelaşi timp.2:7349:Click pentru a adăuga câte un torrent pe rând.2:7210:Finalizare2:719:Conexiune2:708:Opţiuni2:697:Emulare2:688:Torrente2:6711:Importă   2:6624:Nicio emulare selectată2:6517:0 Torrent(e) Gata2:6410:Finalizare2:6335:Foloseşte următorul tip de proxy:2:6238:Foloseşte autentificare pentru proxy.2:616:SOCKS52:604:HTTP2:597:SOCKS4a2:586:SOCKS42:578:Niciunul2:5614:Acces Internet2:5511:Definit % :2:5420:Încărcător (100%)2:5318:Descărcător (0%)2:529:% Complet2:5115:V. Încărcare:2:5015:V. Descărcare:2:4940:Măreşte/micşorează treptat vitezele.2:486:Global2:4713:Ascunde Panou2:468:Închide2:456:Viteze2:448:Etichete2:4311:Informaţii2:4219:Arată Statisticile2:4118:Setaţi Opţiunile2:40228:- Arată toţi clienţii de emulare disponibili.
+- Toate torrent-ele adăugate în lista precedentă vor avea aceeaşi emulare.
+- Asiguraţi-va că emularea selectată este suportată pe tracker-ul unde vreţi să înşelaţi.2:395:Autor2:384:Nume2:3734:Interfaţa de adăugat torrente.
+2:36355:- Toate torrentele încărcate în fila precedentă vor apărea aici.
+- Numai torrentele cu steag verde vor fi adăugate.
+- Verficaţi coloana "Excepţii" pentru a vedea problemele torrentelor.
+- Puteţi şterge orice torrent prin selectarea elementului "Şterge" din meniul click dreapta.
+- Apăsaţi "Următorea" când sunteţi gata să continuaţi.2:3516:Portul ascultat:2:3410:Precedenta2:339:Anulează2:327:Şterge2:314:Hash2:309:Excepţii2:299:Anunţare2:287:Mărime2:274:Nume2:2611:Următoarea2:259:Anulează2:245:Dosar2:2317:Fişiere Multiple2:2217:Un Singur Fişier2:2123:Mutaţi Fişierele Aici2:2035:Actualizări / Ajutor / Asistenţă2:1920:Mulţumiri Speciale:2:1814:Programator:
+2:176:Despre2:1618:Setări Interfaţa2:156:Limbă2:1413:Şterge Toate2:1314:Opreşte Toate2:1215:Porneşte Toate2:1113:Bara de Stare2:1014:Bara de Unelte1:916:Panou de Detalii1:813:Panoul Stăng1:77:Ieşire1:610:Statistici1:58:Opţiuni1:417:Adaugă Rapid ...1:327:Interfaţa de Adăugare ...1:26:Ajutor1:18:Acţiuni1:06:Aspect13:lngFlagBitmap776:iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAHuSURBVChTLc7fS1NhGMDx564LqYR5M2EppEJtNB1t0pZsyVyMhRpbuWKRXShlhRlWGy4ypC66CIKgrL9AIrqIiIgRMiL6Ayx1nm12ttYycec95/1xfkHnnO3luXguPt+HF8D5DRx5a76C4/seB5QHug24BKKxrwEGEAEEgD2AXTCePb/wumJMZrl672WNsbSuz+n6TU27pmlTamNSSaXkiQkWj9PR0R0zcOQXXlUuPyqllooXHpYJuajrZzXtjKqeVpRh+d8QGxykAwPE5aLRaL0ZZJYrhk4ucon7JYzPa1qspeWT7K/P1E4n7usj4XDN+tLq3Rd8cnErkd0azxQlaVxVI4pySjY089F6v6l7e6XubhwMWoHty+3nv+LZwli6ELvDiWJMUUKyHDA17Sd/LN3VJXZ2SoFA1Qz252aflcfSm9H5jZG5AkIRWfYz5qXUTchR/LvH1HY76uiQfD7eDPZ9nnlajs6vj9z6GbqxIQghxo63NO6Rqi2N2ttFj6dkBvBx+kkxPPsjeH3Nf3W90fBTeoyQIxgflqRDIm9HNptw8IDQ1obc7mbw/spj7tJSIflgM5HlEDpHaYzSCCHDGA9JtROi14s8HkMjl4uzgg8A7wDeAKwAvK3lYGcV6jkwluon4FdgG8A4bNDm/AervxePyGWp6gAAAABJRU5ErkJggg==7:lngName8:Română9:lngAuthor12:Master Razor11:lngEncoding5:UTF-83:35818:La descărcare ...3:35931:Nu trimite steagul de FINISARE.3:36067:Lasă torrent-ul să ruleze până ajunge la timpul de actualizare.3:36154:Opreşte-şi-Porneşte in locul steagului de finisare.3:36218:La Încărcare ...3:36359:Încarcă torrent-ul normal. (dezactivează Metoda Waffles)3:36466:Continuă Oprirea-şi-Pornirea până când torrent-ul este oprit.3:36583:După începerea încărcării, Opreşte-şi-Porneşte torent-ul de x ori şi apoi:3:36659:Încarcă torrent-ul normal. (dezactivează Metoda Waffles)3:36753:Opreşte torrent-ul şi dezactivează Metoda Waffles.3:36826:Falsificarea vitezelor ...3:36921:Schimbă vitezele cu:3:37038:Când torrent-ul începe încărcarea.3:37151:Când torent-ul se Opreşte-şi-Porneşte de x ori:3:3937:Coloane3:37330:Torrent-ul se va opri în {0}.3:37415:Oprire automata3:37523:Opreşte torrent-ul in:3:37636:Opreşte dacă raţia este > decât:3:37750:Opreşte dacă încărcarea sesiune este > decât:3:37850:Opreşte dacă descărcarea sesiune este > decât:3:37916:Viteze automate:3:38025:Schimbă vit. la fiecare:3:38148:Alege aleator vit. încărcare cu valori între:3:38248:Alege aleator vit. descărcare cu valori între:3:38329:Viteza se va schimba în {0}.3:38443:Plasează programul în zona de notificare.3:38592:- mRatio se va muta în zona de notificare atunci când veţi închide fereastra principala.3:38686:Acestă acţiune va închide mRatio. Sunteţi sigur că vreţi să închideţi mRatio?3:38775:Sunteţi sigur că vreţi să stergeţi toate torrentele oprite din listă?3:38837:Stergeţi toate torrentele selectate?3:38964:Arată un dialog de confirmare atunci când ştergeţi torrente.3:39084:- Afişează o fereastră cerând confirmare înaintea ştergerii oricărui torrent.3:39163:Arată un dialog de confirmare atunci când închideţi mRatio.3:39276:- Afişează o fereastră cerând confirmare înainte de închiderea mRatio.3:39426:Formează grup din '{0}'
+3:39524:Blochează grup pe '{0}'3:39623:Selectaţi coloanele...3:39744:Sortaţi în ordine crescătoare după '{0}'3:39847:Sortaţi în ordine descrescătoare după '{0}'3:39922:Dezactivaţi grupurile3:40029:Deblochează grupul din '{0}'3:40122:Dezactivează sortarea3:40239:Activează înaintarea porturilor UPnP.3:40321:Metoda Fulger (Flash)3:40442:Arată elementul de meniu "Metoda Fulger".3:405134:Metoda Fulger este periculoasă. Nu o folosiţi decât dacă ştiţi bine ce faceţi!
+Ignoraţi avertismentul şi continuaţi oricum?3:40629:Torrent-ul este 100% complet.3:40742:Torrent-ul este  {0}% complet, {1} rămas.3:408143:Este foarte posibil să vi se interzică accesul pe majoritatea trackerelor dacă mergţi mai departe.
+Continuaţi şi porniţi Metoda Fulger?3:40913:Metoda Fulger3:41024:Cantitate de încărcat:3:41124:Cantitate de descărcat:3:41235:Opreşte torrentul după: (secunde)e

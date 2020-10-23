@@ -1,0 +1,10 @@
+<client name="BitTorrent-7.2 build 24691" author="RM Fan" version="1.0" processname="bittorrent">
+  <query>info_hash={infohash}&amp;peer_id={peerid}&amp;port={port}&amp;uploaded={uploaded}&amp;downloaded={downloaded}&amp;left={left}&amp;corrupt=0&amp;key={key}{event}&amp;numwant={numwant}&amp;compact=1&amp;no_peer_id=1</query> 
+  <headers>Host: {host}_nl_User-Agent: BitTorrent/7200(24691)_nl_Accept-Encoding: gzip_nl_Connection: Close_nl_</headers>
+  <peer_id prefix="M7-2-0--s%60" type="random" length="10" urlencoding="true" upperCase="false" value="" />
+  <key type="hex" length="8" urlencoding="false" lowerCase="false" upperCase="true" value=""/>
+  <protocol value="HTTP/1.1"/>
+  <hash upperCase="false"/>
+  <urlencoding exceptions="-._~"/>
+  <numwant value="200" randomize="false"/>
+</client>
